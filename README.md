@@ -1,4 +1,4 @@
-Animation Tool
+# Animation Tool
 
 The Animation Tool allows users to record object positions and create timelines for customized animations. Users can then play or pause their animations to preview them.
 
@@ -6,13 +6,20 @@ The Animation Tool allows users to record object positions and create timelines 
 
 To get started, follow these steps:
 
-1. Install node modules:
+1. Clone the repository
+
+```bash
+git clone https://github.com/johnvibar/animation-tool.git
+cd animation-tool
+```
+
+2. Install node modules:
 
 ```bash
 npm install
 ```
 
-2. Run the development server:
+3. Run the development server:
 
 ```bash
 npm run dev
@@ -24,7 +31,7 @@ pnpm dev
 bun dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Technical stack
 
