@@ -35,6 +35,7 @@ bun dev
 
 ## Technical stack
 
+- TypeScript
 - Next.js
 - R3F(React + Three + Fiber)
 - Tailwind CSS
